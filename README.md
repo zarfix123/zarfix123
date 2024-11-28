@@ -1,22 +1,23 @@
 ## Hi there! 👋  I'm a junior at Mira Costa High School, passionate about technology, cybersecurity, and music.
 
-## 🏆 Some kind of cool stuff I've done:
-## - GSEC/GFACT
-## - t20 in a few ctfs
-## - president of my schools cybersec and hack club
-## - Spoke at some STEM events for my school and district
+# 🏆 Some kind of cool stuff I've done:
+- GSEC/GFACT
+- t20 in a few ctfs
+- president of my schools cybersec and hack club
+- Spoke at some STEM events for my school and district
 
-## 🔭 I’m currently working on:
-## - A cool worlds-first music software
-## - A slightly less cool medicine app
-## - A giac cert and ceh
+# 🔭 I’m currently working on:
+- A cool worlds-first music software
+- A slightly less cool medicine app
+- A giac cert and ceh
 
-## 🌱 I’m currently learning:
-## - Rust, R, and bettering my C skills
+# 🌱 I’m currently learning:
+- Rust, R, Web stuff
+- React, Dart/Flutter
 
-## 📫 How to reach me: 
-## - Discord: zarfix_ 
-## - (LinkedIn)[https://www.linkedin.com/in/dennis-freyman/]
+# 📫 How to reach me: 
+- Discord: zarfix_ 
+- (LinkedIn)[https://www.linkedin.com/in/dennis-freyman/]
 
 
 

@@ -1,4 +1,4 @@
-# Hi there! 👋  I'm a junior at Mira Costa High School, passionate about technology, cybersecurity, and music.
+## I'm a junior at Mira Costa High School, passionate about technology, cybersecurity, and music.
 
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT

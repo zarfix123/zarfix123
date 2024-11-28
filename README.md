@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me: 
 - Discord: zarfix_ 
-- (LinkedIn)[https://www.linkedin.com/in/dennis-freyman/]
+- [LinkedIn](https://www.linkedin.com/in/dennis-freyman/)
 
 
 

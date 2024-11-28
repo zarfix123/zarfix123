@@ -3,7 +3,7 @@
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT
 - t20 in a few ctfs
-- president of my schools cybersec and hack club
+- president of my schools cybersec club
 - Spoke at some STEM events for my school and district
 
 ### 🔭 I’m currently working on:

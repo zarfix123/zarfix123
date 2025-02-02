@@ -2,6 +2,7 @@
 
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT
+- #1 in USA on DreamHack.io (CTF category)
 - t20 in a few ctfs
 - president of my schools cybersec club
 - Spoke at some STEM events for my school and district

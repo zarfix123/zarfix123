@@ -9,9 +9,7 @@
 
 ### 🔭 I’m currently working on:
 - A cool worlds-first music software
-- A slightly less cool medicine app
-- Some small projects for fun
-- A giac cert and ceh
+- Building a app company (HADEVA)
 
 ### 🌱 I’m currently learning:
 - Rust, R, Web stuff

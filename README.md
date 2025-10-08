@@ -1,7 +1,8 @@
-## I'm a junior at Mira Costa High School, passionate about technology, cybersecurity, and music.
+## I'm a senior at Mira Costa High School, passionate about technology, cybersecurity, and music. Co Founder @ hadeva.org
 
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT
+- ML/music research 
 - #1 in USA on DreamHack.io (CTF category)
 - t20 in a few ctfs
 - president of my schools cybersec club
@@ -9,10 +10,12 @@
 
 ### 🔭 I’m currently working on:
 - A cool worlds-first music software
-- Building a app company (HADEVA)
+- www.skimly.dev
+- www.hadeva.org
 
 ### 🌱 I’m currently learning:
-- Rust, R, Web stuff
+- business
+- rust, r
 - React, Dart/Flutter
 
 ### 📫 How to reach me: 

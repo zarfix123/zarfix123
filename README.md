@@ -1,4 +1,4 @@
-## I'm a senior at Mira Costa High School, passionate about technology, cybersecurity, and music. Co Founder @ hadeva.org
+## Senior at Mira Costa High School, passionate about tech and music. Co Founder @ hadeva.org
 
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT

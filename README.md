@@ -1,4 +1,4 @@
-## Senior at Mira Costa High School, passionate about tech & music. Founder @ hadeva.org
+## Senior at Mira Costa High, passionate about tech & music. Founder @ Hadeva.org
 
 ### 🏆 Some kind of cool stuff I've done:
 - GSEC/GFACT

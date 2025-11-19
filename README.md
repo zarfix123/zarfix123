@@ -1,13 +1,14 @@
 ## Senior at MCHS, passionate about tech & music. Founder @ Hadeva.org
 
 ### 🏆 Some kind of cool stuff I've done:
-- GSEC/GFACT
-- ML/music research 
+- ML/music research
+- won a few hackathons
 - #1 in USA on DreamHack.io (CTF category)
-- #14 NCL
+- #5 NCL
 - #24 Cyberpatriot
 - t20 in a few ctfs
 - president of my schools cybersec club
+- GSEC/GFACT
 - Spoke at some STEM events for my school and district
 
 ### 🔭 I’m currently working on:

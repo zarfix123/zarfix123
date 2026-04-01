@@ -1,4 +1,4 @@
-## Senior at MCHS, passionate about tech & music. Founder @ Hadeva.org
+## CS @ Berkeley, Founder @ Hadeva
 
 ### 🏆 Some kind of cool stuff I've done:
 - ML/music research
@@ -15,7 +15,7 @@
 - A cool worlds-first music software
 - www.reteach.works
 - www.skimly.dev
-- www.hadeva.org
+- www.tolus.dev
 
 ### 🌱 I’m currently learning:
 - business

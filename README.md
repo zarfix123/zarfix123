@@ -1,7 +1,7 @@
 ## CS @ Berkeley, Founder @ Tolus
 
 ### More About Me + Blog
-- [Personal Website](zarfix123.github.io)
+- [Personal Website](https://zarfix123.github.io)
 
 ### 🔭 I’m currently working on:
 - www.tolus.dev

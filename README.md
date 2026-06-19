@@ -1,20 +1,9 @@
-## CS @ Berkeley, Founder @ Hadeva
+## CS @ Berkeley, Founder @ Tolus
 
-### 🏆 Some kind of cool stuff I've done:
-- ML/music research
-- won a few hackathons
-- #1 in USA on DreamHack.io (CTF category)
-- #5 NCL
-- #24 Cyberpatriot
-- t20 in a few ctfs
-- president of my schools cybersec club
-- GSEC/GFACT
-- Spoke at some STEM events for my school and district
+### More About Me + Blog
+- [Personal Website](zarfix123.github.io)
 
 ### 🔭 I’m currently working on:
-- A cool worlds-first music software
-- www.reteach.works
-- www.skimly.dev
 - www.tolus.dev
 
 ### 🌱 I’m currently learning:

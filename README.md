@@ -5,7 +5,7 @@
 Personal website:
 https://zarfix123.github.io
 
-🌱 I’m currently learning 
+I’m currently learning 
 - Rust
 - Flutter
 - Ruby

@@ -9,5 +9,3 @@ https://zarfix123.github.io
 - Rust
 - Flutter
 - Ruby
-- How to run a business
-
